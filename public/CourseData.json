@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "./images/1.jpg",
+      "course_name": "Introduction to Web Development",
+      "duration": "08",
+      "author_name": "John Doe",
+      "author_img": "./images/boy2.png",
+      "publish_date": "2023-01-15",
+      "hashTags": ["webdev", "programming", "HTML", "CSS"]
+    },
+    {
+      "id": 2,
+      "cover": "./images/2.png",
+      "course_name": "Python Programming Basics",
+      "duration": "06",
+      "author_name": "Alice Smith",
+      "author_img": "./images/girl2.jpg",
+      "publish_date": "2023-02-10",
+      "hashTags": ["python", "programming", "beginner"]
+    },
+    {
+      "id": 3,
+      "cover": "./images/3.png",
+      "course_name": "Data Science Fundamentals",
+      "duration": "12",
+      "author_name": "Eleanor Johnson",
+      "author_img": "./images/girl1.jpg",
+      "publish_date": "2023-03-20",
+      "hashTags": ["datascience", "analytics", "machinelearning"]
+    },
+    {
+      "id": 4,
+      "cover": "./images/4.jpg",
+      "course_name": "Mobile App Development with React Native",
+      "duration": "10",
+      "author_name": "Michael Brown",
+      "author_img": "./images/boy1.png",
+      "publish_date": "2023-04-05",
+      "hashTags": ["reactnative", "appdevelopment", "mobile"]
+    },
+    {
+      "id": 5,
+      "cover": "./images/2.png",
+      "course_name": "Advanced JavaScript Techniques",
+      "duration": "09",
+      "author_name": "Sophia Lee",
+      "author_img": "./images/girl2.jpg",
+      "publish_date": "2023-05-12",
+      "hashTags": ["javascript", "programming", "advanced"]
+    }
+  ]
+  
